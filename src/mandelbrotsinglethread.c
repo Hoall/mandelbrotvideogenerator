@@ -30,7 +30,7 @@ my_complex_t calculate_dot(const my_complex_t z, const my_complex_t c) {
  * The formula is as long as calculated until either the absolute value exceeds
  * the abort condition or the number of iterations has been performed.
  *
- * If the abort condition was fullfilled, the point does not belong to the
+ * If the abort condition was fulfilled, the point does not belong to the
  * Mandelbrot set. If not, then most likely.
  *
  * @param c The test point.
